@@ -1,5 +1,5 @@
 #!/bin/sh
-git remote set-url origin apollocoder/strapi-docker.git
+git remote set-url origin git@github.com:apollocoder/strapi-docker.git
 git pull origin master
 git status
 git remote set-url origin rjain15/strapi-docker.git
